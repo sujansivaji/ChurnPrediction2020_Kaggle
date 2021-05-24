@@ -21,3 +21,6 @@ The trainset info is given below:
 18. "total_intl_charge", numerical. Total charge of international calls
 19. "number_customer_service_calls", numerical. Number of calls to customer service
 20. "churn", . Customer churn - target variable.
+
+![image](https://user-images.githubusercontent.com/2890590/119322790-9f177700-bc9b-11eb-919e-546dd44aa466.png)
+
