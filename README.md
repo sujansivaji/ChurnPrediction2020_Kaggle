@@ -22,5 +22,7 @@ The trainset info is given below:
 19. "number_customer_service_calls", numerical. Number of calls to customer service
 20. "churn", . Customer churn - target variable.
 
+Kaggle dataset: https://www.kaggle.com/c/customer-churn-prediction-2020/data
+
 ![image](https://user-images.githubusercontent.com/2890590/119322790-9f177700-bc9b-11eb-919e-546dd44aa466.png)
 
